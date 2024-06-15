@@ -55,4 +55,5 @@ Charles Babbage is stalking Alan Kay
 Current graveyard:
 Alan Turing was killed by Charles Babbage
 
-This work is originally one of class assignment in JAVA, but I changed it to Python.
+
+This project is licensed under the MIT License.
